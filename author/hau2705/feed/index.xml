@@ -10,7 +10,7 @@
 <channel>
 	<title>hau2705 &#8211; MinhHau</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/hau2705/feed/" rel="self" type="application/rss+xml" />
-	<link>https://minhhauu2705/mywordpress</link>
+	<link>https://minhhauu2705.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 23 Aug 2022 08:25:00 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,39 +21,39 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>https://minhhauu2705/mywordpress/2022/08/23/chao-moi-nguoi/</link>
-					<comments>https://minhhauu2705/mywordpress/2022/08/23/chao-moi-nguoi/#comments</comments>
+		<link>https://minhhauu2705.github.io/mywordpress/2022/08/23/chao-moi-nguoi/</link>
+					<comments>https://minhhauu2705.github.io/mywordpress/2022/08/23/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[hau2705]]></dc:creator>
 		<pubDate>Tue, 23 Aug 2022 08:25:00 +0000</pubDate>
-				<guid isPermaLink="false">https://minhhauu2705/mywordpress/?p=1</guid>
+				<guid isPermaLink="false">https://minhhauu2705.github.io/mywordpress/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://minhhauu2705/mywordpress/2022/08/23/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhhauu2705.github.io/mywordpress/2022/08/23/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>https://minhhauu2705/mywordpress/2022/08/23/chao-moi-nguoi/</link>
-					<comments>https://minhhauu2705/mywordpress/2022/08/23/chao-moi-nguoi/#comments</comments>
+		<link>https://minhhauu2705.github.io/mywordpress/2022/08/23/chao-moi-nguoi/</link>
+					<comments>https://minhhauu2705.github.io/mywordpress/2022/08/23/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[hau2705]]></dc:creator>
 		<pubDate>Tue, 23 Aug 2022 08:25:00 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://minhhauu2705/mywordpress/?p=1</guid>
+		<guid isPermaLink="false">https://minhhauu2705.github.io/mywordpress/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://minhhauu2705/mywordpress/2022/08/23/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhhauu2705.github.io/mywordpress/2022/08/23/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
